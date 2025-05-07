@@ -1,15 +1,15 @@
-# Roblox Raycast Gun System
+# 🔫 Roblox Raycast Gun System
 
 A simple first-person shooter system created in Roblox Studio with Lua. This gun system demonstrates raycasting, damage, bullet trails, and self-hit prevention.
 
-## Features
+## 📸 Features
 - Raycast-based shooting
 - Bullet trail effect (Neon Part)
 - 25 damage per hit
 - Ignores hits on your own character
 - Easy to extend with ammo/reload logic
 
-## Setup Instructions
+## 🛠️ Setup Instructions
 
 Follow these steps in Roblox Studio:
 
@@ -21,10 +21,13 @@ Follow these steps in Roblox Studio:
    - A **Script** named `GunServer` (handles raycast + damage)
 5. Add a dummy from the Rig menu to test hits.
 
-## Author
+## 🧠 Tutorial Code
+All code is provided in this repository.
+
+## 👤 Author
 Made by **f4rt0ng**  
-Discord: `fartong`  
+Discord: `YourUser#1234`  
 Available for scripting commissions!
 
-## License
+## 📄 License
 MIT – Free to use with credit.
