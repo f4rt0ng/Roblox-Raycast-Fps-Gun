@@ -21,10 +21,10 @@ Follow these steps in Roblox Studio:
    - A **Script** named `GunServer` (handles raycast + damage)
 5. Add a dummy from the Rig menu to test hits.
 
-## 👤 Author
+## Author
 Made by **f4rt0ng**  
 Discord: `fartong`  
 Available for scripting commissions!
 
-## 📄 License
+## License
 MIT – Free to use with credit.
